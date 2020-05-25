@@ -1,0 +1,15 @@
+@font-face {
+font-family: 'ScrapOHolic Medium';
+font-style: normal;
+font-weight: normal;
+src: local('ScrapOHolic Medium'), url('scrap-o-holic.woff') format('woff');
+}
+
+
+h1{
+	font-family: 'ScrapOHolic Medium';
+}
+
+#font{
+	font-family: 'ScrapOHolic Medium';
+}
