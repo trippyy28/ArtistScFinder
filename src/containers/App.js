@@ -13,7 +13,7 @@ class App extends Component {
 			searchfield : ''
 		}
 	}
-
+/*changing the state to the input value*/
 	onSearchChange=(event)=>{
 		this.setState({searchfield:event.target.value})
 	}
