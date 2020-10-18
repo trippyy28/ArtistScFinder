@@ -19,7 +19,9 @@ class App extends Component {
 	}
 
 	render (){
+		/*destructring*/
 		const {names,searchfield} = this.state;
+		/*filtering the dj׳s names*/
 		const filterNames = names.filter(name=>{
 		  return name.name.toLowerCase().includes(searchfield.toLowerCase());
 		})
