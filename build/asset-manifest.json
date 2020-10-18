@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DjMonsters/static/css/main.69a48e77.chunk.css",
+    "main.js": "/DjMonsters/static/js/main.283d40e5.chunk.js",
+    "main.js.map": "/DjMonsters/static/js/main.283d40e5.chunk.js.map",
+    "runtime-main.js": "/DjMonsters/static/js/runtime-main.1fbd0b19.js",
+    "runtime-main.js.map": "/DjMonsters/static/js/runtime-main.1fbd0b19.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/DjMonsters/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.582064ae.chunk.js": "/DjMonsters/static/js/2.582064ae.chunk.js",
+    "static/js/2.582064ae.chunk.js.map": "/DjMonsters/static/js/2.582064ae.chunk.js.map",
+    "index.html": "/DjMonsters/index.html",
+    "precache-manifest.12ff6ddddefb04bcf6bfee5ecbd5f461.js": "/DjMonsters/precache-manifest.12ff6ddddefb04bcf6bfee5ecbd5f461.js",
+    "service-worker.js": "/DjMonsters/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/DjMonsters/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.69a48e77.chunk.css.map": "/DjMonsters/static/css/main.69a48e77.chunk.css.map",
+    "static/js/2.582064ae.chunk.js.LICENSE.txt": "/DjMonsters/static/js/2.582064ae.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DjMonsters/static/media/scrap-o-holic.091d02bd.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fbd0b19.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.582064ae.chunk.js",
+    "static/css/main.69a48e77.chunk.css",
+    "static/js/main.283d40e5.chunk.js"
+  ]
+}
