@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c213e3c374dcb8b61ee0c1fbc0fb0ff",
+    "revision": "0293adb764850d8d53454e59ef79a082",
     "url": "/DjMonsters/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DjMonsters/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "4401753f2042a0906858",
+    "revision": "f257c5990656444728f5",
     "url": "/DjMonsters/static/css/main.1acf693e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DjMonsters/static/js/2.7989e35d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4401753f2042a0906858",
-    "url": "/DjMonsters/static/js/main.0bf5c7bd.chunk.js"
+    "revision": "f257c5990656444728f5",
+    "url": "/DjMonsters/static/js/main.45faa776.chunk.js"
   },
   {
     "revision": "3a056b31aa5b010e7ad3",

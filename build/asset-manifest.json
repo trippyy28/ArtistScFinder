@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DjMonsters/static/css/main.1acf693e.chunk.css",
-    "main.js": "/DjMonsters/static/js/main.0bf5c7bd.chunk.js",
-    "main.js.map": "/DjMonsters/static/js/main.0bf5c7bd.chunk.js.map",
+    "main.js": "/DjMonsters/static/js/main.45faa776.chunk.js",
+    "main.js.map": "/DjMonsters/static/js/main.45faa776.chunk.js.map",
     "runtime-main.js": "/DjMonsters/static/js/runtime-main.1fbd0b19.js",
     "runtime-main.js.map": "/DjMonsters/static/js/runtime-main.1fbd0b19.js.map",
     "static/css/2.3c03f26f.chunk.css": "/DjMonsters/static/css/2.3c03f26f.chunk.css",
     "static/js/2.7989e35d.chunk.js": "/DjMonsters/static/js/2.7989e35d.chunk.js",
     "static/js/2.7989e35d.chunk.js.map": "/DjMonsters/static/js/2.7989e35d.chunk.js.map",
     "index.html": "/DjMonsters/index.html",
-    "precache-manifest.535d1c64d55017fc84bfc72bd4c700fc.js": "/DjMonsters/precache-manifest.535d1c64d55017fc84bfc72bd4c700fc.js",
+    "precache-manifest.5f9f64c8d5451c19231a2fac35ef4969.js": "/DjMonsters/precache-manifest.5f9f64c8d5451c19231a2fac35ef4969.js",
     "service-worker.js": "/DjMonsters/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/DjMonsters/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.1acf693e.chunk.css.map": "/DjMonsters/static/css/main.1acf693e.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.7989e35d.chunk.js",
     "static/css/main.1acf693e.chunk.css",
-    "static/js/main.0bf5c7bd.chunk.js"
+    "static/js/main.45faa776.chunk.js"
   ]
 }
