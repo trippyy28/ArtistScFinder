@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/DjMonsters/static/css/main.1acf693e.chunk.css",
-    "main.js": "/DjMonsters/static/js/main.45faa776.chunk.js",
-    "main.js.map": "/DjMonsters/static/js/main.45faa776.chunk.js.map",
-    "runtime-main.js": "/DjMonsters/static/js/runtime-main.1fbd0b19.js",
-    "runtime-main.js.map": "/DjMonsters/static/js/runtime-main.1fbd0b19.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/DjMonsters/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.7989e35d.chunk.js": "/DjMonsters/static/js/2.7989e35d.chunk.js",
-    "static/js/2.7989e35d.chunk.js.map": "/DjMonsters/static/js/2.7989e35d.chunk.js.map",
+    "main.css": "/DjMonsters/static/css/main.bdd7478a.chunk.css",
+    "main.js": "/DjMonsters/static/js/main.e81e3e80.chunk.js",
+    "main.js.map": "/DjMonsters/static/js/main.e81e3e80.chunk.js.map",
+    "runtime-main.js": "/DjMonsters/static/js/runtime-main.f7fab8a6.js",
+    "runtime-main.js.map": "/DjMonsters/static/js/runtime-main.f7fab8a6.js.map",
+    "static/css/2.9a477ee2.chunk.css": "/DjMonsters/static/css/2.9a477ee2.chunk.css",
+    "static/js/2.db01a818.chunk.js": "/DjMonsters/static/js/2.db01a818.chunk.js",
+    "static/js/2.db01a818.chunk.js.map": "/DjMonsters/static/js/2.db01a818.chunk.js.map",
     "index.html": "/DjMonsters/index.html",
-    "precache-manifest.5f9f64c8d5451c19231a2fac35ef4969.js": "/DjMonsters/precache-manifest.5f9f64c8d5451c19231a2fac35ef4969.js",
-    "service-worker.js": "/DjMonsters/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/DjMonsters/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.1acf693e.chunk.css.map": "/DjMonsters/static/css/main.1acf693e.chunk.css.map",
-    "static/js/2.7989e35d.chunk.js.LICENSE.txt": "/DjMonsters/static/js/2.7989e35d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/DjMonsters/static/media/scrap-o-holic.091d02bd.woff"
+    "static/css/2.9a477ee2.chunk.css.map": "/DjMonsters/static/css/2.9a477ee2.chunk.css.map",
+    "static/css/main.bdd7478a.chunk.css.map": "/DjMonsters/static/css/main.bdd7478a.chunk.css.map",
+    "static/js/2.db01a818.chunk.js.LICENSE.txt": "/DjMonsters/static/js/2.db01a818.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DjMonsters/static/media/scrap-o-holic.88c2063b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.1fbd0b19.js",
-    "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.7989e35d.chunk.js",
-    "static/css/main.1acf693e.chunk.css",
-    "static/js/main.45faa776.chunk.js"
+    "static/js/runtime-main.f7fab8a6.js",
+    "static/css/2.9a477ee2.chunk.css",
+    "static/js/2.db01a818.chunk.js",
+    "static/css/main.bdd7478a.chunk.css",
+    "static/js/main.e81e3e80.chunk.js"
   ]
 }
