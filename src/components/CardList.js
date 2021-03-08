@@ -11,6 +11,8 @@ const CardList = ({ djs }) => {
             id={djs[i].id}
             name={djs[i].name}
             email={djs[i].email}
+            img={djs[i].img}
+            sc={djs[i].sc}
           />
         );
       })}

@@ -12,3 +12,8 @@ h1 {
 #font {
   font-family: "ScrapOHolic Medium";
 }
+
+img {
+  height: 250px;
+  width: 250px;
+}
