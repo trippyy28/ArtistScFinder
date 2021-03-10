@@ -32,9 +32,8 @@ function App() {
     <div className="tc">
       <h1 className="f1">Dj׳S</h1>
       <SearchBox searchChange={onSearchChange} />
-      <Scroll>
-        <CardList djs={filteredDjs} />
-      </Scroll>
+
+      <CardList djs={filteredDjs} />
     </div>
   );
 }

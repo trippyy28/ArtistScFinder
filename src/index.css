@@ -1,10 +1,9 @@
+* {
+  box-sizing: border-box;
+  
+}
 body {
-  background: linear-gradient(
-    90deg,
-    rgb(42, 170, 144) 0%,
-    rgb(63, 172, 223) 35%,
-    rgb(40, 184, 216) 100%
-  );
+  background: rgb(58, 226, 212);
 }
 h1 {
   text-align: center;

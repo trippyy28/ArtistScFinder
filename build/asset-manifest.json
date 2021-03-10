@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/DjMonsters/static/css/main.bdd7478a.chunk.css",
-    "main.js": "/DjMonsters/static/js/main.e81e3e80.chunk.js",
-    "main.js.map": "/DjMonsters/static/js/main.e81e3e80.chunk.js.map",
-    "runtime-main.js": "/DjMonsters/static/js/runtime-main.f7fab8a6.js",
-    "runtime-main.js.map": "/DjMonsters/static/js/runtime-main.f7fab8a6.js.map",
-    "static/css/2.9a477ee2.chunk.css": "/DjMonsters/static/css/2.9a477ee2.chunk.css",
-    "static/js/2.db01a818.chunk.js": "/DjMonsters/static/js/2.db01a818.chunk.js",
-    "static/js/2.db01a818.chunk.js.map": "/DjMonsters/static/js/2.db01a818.chunk.js.map",
-    "index.html": "/DjMonsters/index.html",
-    "static/css/2.9a477ee2.chunk.css.map": "/DjMonsters/static/css/2.9a477ee2.chunk.css.map",
-    "static/css/main.bdd7478a.chunk.css.map": "/DjMonsters/static/css/main.bdd7478a.chunk.css.map",
-    "static/js/2.db01a818.chunk.js.LICENSE.txt": "/DjMonsters/static/js/2.db01a818.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/DjMonsters/static/media/scrap-o-holic.88c2063b.woff"
+    "main.css": "/Dj-s/static/css/main.f71e9c5f.chunk.css",
+    "main.js": "/Dj-s/static/js/main.e81e3e80.chunk.js",
+    "main.js.map": "/Dj-s/static/js/main.e81e3e80.chunk.js.map",
+    "runtime-main.js": "/Dj-s/static/js/runtime-main.923ad743.js",
+    "runtime-main.js.map": "/Dj-s/static/js/runtime-main.923ad743.js.map",
+    "static/css/2.9a477ee2.chunk.css": "/Dj-s/static/css/2.9a477ee2.chunk.css",
+    "static/js/2.db01a818.chunk.js": "/Dj-s/static/js/2.db01a818.chunk.js",
+    "static/js/2.db01a818.chunk.js.map": "/Dj-s/static/js/2.db01a818.chunk.js.map",
+    "index.html": "/Dj-s/index.html",
+    "static/css/2.9a477ee2.chunk.css.map": "/Dj-s/static/css/2.9a477ee2.chunk.css.map",
+    "static/css/main.f71e9c5f.chunk.css.map": "/Dj-s/static/css/main.f71e9c5f.chunk.css.map",
+    "static/js/2.db01a818.chunk.js.LICENSE.txt": "/Dj-s/static/js/2.db01a818.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Dj-s/static/media/scrap-o-holic.88c2063b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7fab8a6.js",
+    "static/js/runtime-main.923ad743.js",
     "static/css/2.9a477ee2.chunk.css",
     "static/js/2.db01a818.chunk.js",
-    "static/css/main.bdd7478a.chunk.css",
+    "static/css/main.f71e9c5f.chunk.css",
     "static/js/main.e81e3e80.chunk.js"
   ]
 }
